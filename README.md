@@ -7,6 +7,10 @@ It uses [`NTKernelWalkerLib`](https://github.com/jsacco/NTKernelWalkerLib) to re
 
 The tool is built around a pluggable kernel read/write backend and a runtime discovery pipeline. It resolves `ntoskrnl` symbols, walks kernel structures, generates offsets dynamically, enumerates kernel objects, collects gadget candidates, classify them, and organizes the discovered gadgets into chains.
 
+<p align="center" width="100%">
+<video src="https://github.com/jsacco/DataOnlyGadget/blob/main/dog.mp4" width="80%" controls></video>
+</p>
+
 <img src="https://exploitpack.eu/dog.png" alt="DOG">
 
 ## Features
