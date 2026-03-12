@@ -51,7 +51,7 @@ This tool is built around a pluggable kernel read/write backend and a runtime di
 - Controlled VA/PA Arbitrary Read
 - Controlled VA/PA Aribitrary Write
 - Code Injection
-- Unlink (hiding) of target PID
+- Unlink (hiding) of target PID via Data
 - LSASS PatchWDigest
 - LSASS Dump Raw pages from memory
 - LSASS Minidump + PPL Zeroing
