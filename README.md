@@ -3,7 +3,7 @@ DOG is a post-exploitation toolkit that uses your existing kernel read/write pri
 
 A kernel gadget is a small piece of kernel code or a kernel data structure that can be repurposed as a building block in an exploit chain. Unlike traditional ROP gadgets (which are small sequences of instructions ending in a ret), DOG's kernel gadgets are data-oriented and legitimate parts of the Windows kernel that can be used and abused to perform useful operations when combined.
 
-Author: Juan Sacco - https://exploitpack.com
+Who let the dog out? Author: Juan Sacco - https://exploitpack.com
 
 ## Why Kernel Gadgets? 
 
@@ -59,7 +59,7 @@ The tool is built around a pluggable kernel read/write backend and a runtime dis
 - LSASS Minidump + PPL Zeroing
 - Suspend of target PID, works for Protected Processed
 
-## DOG in action
+## DOG unleashed
 Windows 11 25h2 (Latest build, fully patched) with VBS/HVCI/kCET/CredentialGuard and AV active with tampering protection
 
 https://github.com/user-attachments/assets/32097c0d-c6c5-4cea-afd0-936fb252f6f6
