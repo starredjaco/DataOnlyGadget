@@ -19,9 +19,9 @@ Traditional kernel exploits rely on executing custom shellcode or ROP chains tec
 | **Patch Guard** | Modification of critical structures | Gadgets target non-protected data |
 
 
-DOG implements (also my project) [`NTKernelWalkerLib`](https://github.com/jsacco/NTKernelWalkerLib) to recover the offsets and structures needed during discovery.
+DOG implements [`NTKernelWalkerLib`](https://github.com/jsacco/NTKernelWalkerLib) to recover the offsets and structures needed during discovery.
 
-And it's based on my research on Arbitrary Code Execution via SSDT Hijack: [`SSDTHijackWriteUp`](https://www.exploitpack.com/blogs/news/bypassing-kernel-code-execution-a-data-only-ssdt-hijack-under-hvci-but-how) 
+And it's based on my research of Arbitrary Code Execution via SSDT Hijack: [`SSDTHijackWriteUp`](https://www.exploitpack.com/blogs/news/bypassing-kernel-code-execution-a-data-only-ssdt-hijack-under-hvci-but-how) 
 
 ## Summary
 
