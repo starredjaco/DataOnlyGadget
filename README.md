@@ -7,7 +7,7 @@ Author: Juan Sacco - https://exploitpack.com
 
 ## Why Kernel Gadgets? 
 
-Traditional kernel exploits rely on executing custom shellcode or ROP chains—techniques that modern mitigations like VBS, HVCI, and CET have rendered obsolete. DOG takes a different approach: **data-only gadget chaining**. Instead of injecting code, DOG discovers and repurposes existing kernel code and data structures.
+Traditional kernel exploits rely on executing custom shellcode or ROP chains techniques that modern mitigations like VBS, HVCI, and CET have rendered obsolete. DOG takes a different approach: **data-only gadget chaining**. Instead of injecting code, DOG discovers and repurposes existing kernel code and data structures.
 
 | Mitigation | Protection aim | Gadgets |
 |------------|----------------|------------------------|
