@@ -65,7 +65,7 @@ Besides this actionable features, there are several more programmer-centric feat
 - Interactive mode and command-line mode
 - JSON export of discovered gadgets
 
-## DOG in-action with Kernel Pack
+## DOG in-action with Kernel Pack (https://www.exploitpack.com/products/kernel-pack)
 We integrated DOG into Kernel Pack with modifications to its base code, enabling Kernel Pack to deploy an agent that combines advanced user‑level bypass capabilities (inherited from Control Pack) with kernel‑level access, all while operating on a fully protected endpoint with VBS, HVCI, and kCET enabled.
 
 <img width="3024" height="1362" alt="Screenshot From 2026-03-17 20-26-05" src="https://github.com/user-attachments/assets/79807c6f-18a4-48a5-b16d-2963de4e2d3d" />
